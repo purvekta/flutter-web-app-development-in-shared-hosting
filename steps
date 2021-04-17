@@ -1,0 +1,5 @@
+steps for flutter web app deployment
+run the command flutter build web in terminal 
+then it will create a web folder in build directory
+zip the web folder and upload it in the public_html folder.
+thats it
